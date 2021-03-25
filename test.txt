@@ -1,1 +1,4 @@
 pi3rwsz4 lini4 w pi3rwszym c0mmit - ŁukaszW
+druga linia commit pierwszy - MonikaK
+druga linia w drugim commit - LukaszW`
+druga linia w pierwszym commit - DanielW
