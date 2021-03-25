@@ -1,1 +1,2 @@
 pierwsza linia w pierwszym commit - ŁukaszW
+druga linia w drugim commit - LukaszW
