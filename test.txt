@@ -1,2 +1,3 @@
 pierwsza linia w pierwszym commit - ŁukaszW
+kolejna linia dla problematycznego merga - ŁukaszW
 druga linia w drugim commit - LukaszW
